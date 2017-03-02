@@ -1,0 +1,28 @@
+{
+  "name": "conducta",
+  "version": "0.1.1",
+  "description": "Manager docker containers to handle HTTP requests.",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint --cache src",
+    "start": "node --harmony lib/index.js"
+  },
+  "author": {
+      "url": "https://twitter.com/@evanxsummers"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "redis-app-rpf": "^0.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanx/conducta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evanx/conducta/issues"
+  },
+  "homepage": "https://github.com/evanx/conducta#readme"
+}
