@@ -1,6 +1,6 @@
 {
   "name": "conducta",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Manager docker containers to handle HTTP requests.",
   "main": "lib/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "redis-app-rpf": "^0.8.0"
+    "redis-app": "^0.8.0"
   },
   "devDependencies": {
     "eslint": "^3.12.2"
