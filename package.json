@@ -8,14 +8,14 @@
     "start": "node --harmony lib/index.js"
   },
   "author": {
-      "url": "https://twitter.com/@evanxsummers"
+    "url": "https://twitter.com/@evanxsummers"
   },
   "license": "ISC",
   "dependencies": {
     "redis-app": "^0.8.0"
   },
   "devDependencies": {
-    "eslint": "^3.12.2"
+    "eslint": "^6.0.0"
   },
   "repository": {
     "type": "git",
